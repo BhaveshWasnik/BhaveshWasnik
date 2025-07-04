@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BhaveshWasnik
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Dsa in C-programming
+- 🌱 I’m currently learning Dsa in C++
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me www.linkedin.com/in/bhavesh-wasnik
 - 😄 Pronouns: mr.bhavesh
